@@ -42,7 +42,7 @@ Open the local link
 After running, Gradio will provide a local URL (e.g., http://127.0.0.1:7860) — open it in your browser to use the player similarity recommender.
 
 
-How to try the app online
+2. **How to try the app online**
 You can try the app directly on Hugging Face Spaces without installing anything:
 
 https://huggingface.co/spaces/veedann/valorant-player-similarity
