@@ -43,13 +43,17 @@ python app.py
 # After running, Gradio will provide a local URL (e.g., http://127.0.0.1:7860)
 # Open it in your browser to use the player similarity recommender.
 
----
+```
+## How to try the app online
+```bash
 
-2. **How to try the app online**
 You can try the app directly on Hugging Face Spaces without installing anything:
 
 https://huggingface.co/spaces/veedann/valorant-player-similarity
 
+```
+
+```bash
 About Gradio
 This project uses Gradio to build an easy-to-use web UI for machine learning models and data apps.
 Gradio handles the frontend and backend, letting users interact with the recommender by entering player names and getting results immediately.
@@ -59,3 +63,4 @@ Gradio handles the frontend and backend, letting users interact with the recomme
 License
 MIT License
 Feel free to use and modify this project.
+```
