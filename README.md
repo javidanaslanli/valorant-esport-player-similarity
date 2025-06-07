@@ -1,6 +1,6 @@
 # Valorant Player Similarity Recommender
 
-This project is a player similarity recommender system for Valorant players based on Valorant Champion Tour (VCT) 2021-2023 data.  
+This project is a player similarity recommender system for Valorant players based on Valorant Champion Tour (VCT) 2025 data.  
 It uses player statistics and machine learning techniques (cosine similarity on standardized features) to find players with similar playstyles.
 
 The app is built with **Python**, **Pandas**, **Scikit-learn**, and **Gradio** for the interactive UI.
