@@ -28,19 +28,22 @@ The app is built with **Python**, **Pandas**, **Scikit-learn**, and **Gradio** f
 
 1. **Clone this repo**
 
+## How to run locally
+
 ```bash
-git clone https://github.com//javidanaslanli/valorant-esport-player-similarity.git
+git clone https://github.com/javidanaslanli/valorant-esport-player-similarity.git
 cd valorant-esport-player-similarity
 
-Make sure you have Python 3.7+ installed. Then run:
+# Make sure you have Python 3.7+ installed. Then run:
 pip install -r requirements.txt
 
-Run the Gradio app
+# Run the Gradio app
 python app.py
 
-Open the local link
-After running, Gradio will provide a local URL (e.g., http://127.0.0.1:7860) — open it in your browser to use the player similarity recommender.
+# After running, Gradio will provide a local URL (e.g., http://127.0.0.1:7860)
+# Open it in your browser to use the player similarity recommender.
 
+---
 
 2. **How to try the app online**
 You can try the app directly on Hugging Face Spaces without installing anything:
@@ -50,6 +53,8 @@ https://huggingface.co/spaces/veedann/valorant-player-similarity
 About Gradio
 This project uses Gradio to build an easy-to-use web UI for machine learning models and data apps.
 Gradio handles the frontend and backend, letting users interact with the recommender by entering player names and getting results immediately.
+
+---
 
 License
 MIT License
